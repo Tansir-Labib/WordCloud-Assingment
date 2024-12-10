@@ -17,5 +17,3 @@ Visualization: The WordCloud is displayed using Matplotlib for viewing and savin
 # Output
 Below is an example of the generated WordCloud:
 
-WordCloud Output:
-![Output](https://github.com/user-attachments/assets/1a305e9a-31e5-4038-ae04-0f5a6d7696d6)
